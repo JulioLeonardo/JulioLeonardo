@@ -19,4 +19,14 @@
 - 😄 Pronouns: We, us.
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. Alternatively, you can walk your dog for 45 minutes, which also burns 150 calories – and is much less painful. Find this and a lot more fun fact at [The Fact Site](https://www.thefactsite.com/top-100-random-funny-facts/ "The Fact Site").
 
+
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julioleonardo&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioleonardo&show_icons=true&layout=compact" />
+</p>
+
+<p align="center">
 ![Cute Doggo Studying React](https://media2.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif "Cute Doggo Studying React")
+</p>
+
