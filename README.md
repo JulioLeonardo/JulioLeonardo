@@ -6,9 +6,9 @@
 ----
 
 - 🔭 I’m currently working as a Front-end Volunteer Developer on [Kids in Danger](https://kidsindanger.org// "kids In Danger") browser extension, where concerned parents receive information on recalls and incidents regarding products they intend to buy on Amazon and Craigslist.
-- 🌱 I’m currently learning on one of [Digital Innovation One](https://digitalinnovation.one/ "DIO") Full Stack Bootcamps.
+- 🌱 I’m currently learning on one of [IGTI](https://igti.com.br/ "IGTI") Full Stack Bootcamps.
 - 👯 I’m looking to collaborate with people, I`m looking for co-workers, but also friends!! 🤝
-- 💬 Ask me about HTML, CSS and Javascript, or anything at all... 🤪
+- 💬 Ask me about HTML, CSS and Javascript, React or anything at all... 🤪
 - 📫 How to reach me:
 
 >>[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JulioLeonardo)](https://github.com/JulioLeonardo)
