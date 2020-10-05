@@ -27,6 +27,6 @@
 </p>
 
 <p align="center">
-![Cute Doggo Studying React](https://media2.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif "Cute Doggo Studying React")
+  <img align="center" alt="Cute Doggo Studying React" src="https://media2.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" />
 </p>
 
