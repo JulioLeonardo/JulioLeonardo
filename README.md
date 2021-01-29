@@ -5,7 +5,7 @@
 
 ----
 
-- 🔭 I’m currently working as a Front-end Volunteer Developer on [Kids in Danger](https://kidsindanger.org// "kids In Danger") browser extension, where concerned parents receive information on recalls and incidents regarding products they intend to buy on Amazon and Craigslist.
+- 🔭 I’m currently working as a Frontend Developer at [Apto.vc](https://apto.vc), Brazil's biggest online mall for new realties.
 - 🌱 I’m currently learning a lot with my colleagues at [Apto.vc](https://apto.vc)
 - 👯 I’m looking to collaborate with people, I`m looking for co-workers, but also friends!! 🤝
 - 💬 Ask me about HTML, CSS and Javascript, React or anything at all... 🤪
