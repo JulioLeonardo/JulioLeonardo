@@ -5,8 +5,8 @@
 
 ----
 
-- 🔭 I’m currently working as a Frontend Developer at [Apto.vc](https://apto.vc), Brazil's biggest online mall for new realties.
-- 🌱 I’m currently learning a lot with my colleagues at [Apto.vc](https://apto.vc)
+- 🔭 I’m currently working as a Software Engineer at [Jochen Schweizer Mydays Group](https://career.jsmd-group.com), Germany's biggest experience company.
+- 🌱 I’m currently learning a lot with my colleagues.
 - 👯 I’m looking to collaborate with people, I`m looking for co-workers, but also friends!! 🤝
 - 💬 Ask me about HTML, CSS and Javascript, React or anything at all... 🤪
 - 📫 How to reach me:
